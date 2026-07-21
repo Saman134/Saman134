@@ -50,7 +50,7 @@ Results-driven **Data Analytics Professional** with **4+ years of experience** i
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saman134&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saman134&show_icons=true&hide_border=true)
 
 ---
 
